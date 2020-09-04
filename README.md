@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![bg](Images/bg.jpeg)
+
 <!--
 **alexbrillant/alexbrillant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
