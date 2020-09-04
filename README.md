@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![bg](bg.jpeg)
+![bg](https://raw.githubusercontent.com/alexbrillant/alexbrillant/master/bg.jpeg)
 
 <!--
 **alexbrillant/alexbrillant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
