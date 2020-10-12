@@ -2,9 +2,6 @@
 
 ![bg](https://raw.githubusercontent.com/alexbrillant/alexbrillant/master/bg.jpeg)
 
-- 🔭 Coauthor of Neuraxle. I build tools for humans. 
-- 🌱 I’m currently learning Time Series Processing, and NLP.
-
 <!--
 **alexbrillant/alexbrillant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
